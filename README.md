@@ -24,7 +24,7 @@ REQUIREMENTS:
 
 [*] Software Requirements: Google Colab/Jupyter Notebook, Python, Tensor Flow
 
-[*] HARDWARE REQUIREMENTS: fast TPU (Tensor Processing Unit)
+[*] HARDWARE REQUIREMENTS: fast GPU (Graphics Processing Unit)
 
 [*] DEPENDENCIES: INCLUDED
 
