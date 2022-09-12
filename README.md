@@ -32,10 +32,16 @@ REQUIREMENTS:
 =============================================================
 
 This is a Google Colab/Jupyter Notebook for (for one possible scheme in) developing an IMAGINATION proxia when working with ARTIFICIAL INTELLIGENCE 2.0 ™ 
-(ARTIFICIAL INTELLIGENCE 2.0™ is part of MAGNETRON ™ TECHNOLOGY). The machine running the Notebook will be a MINDCLOUD on which you will be
+(ARTIFICIAL INTELLIGENCE 2.0 ™ is part of MAGNETRON ™ TECHNOLOGY). The machine running the Notebook will be a MINDCLOUD on which you will be
 developing a PROXIA.
 
 e.g On an ASTRAL MINDCLOUD the ASTRAL VISION PROXIA can be used to process INFORMATION sent to it from an INSTINCTIVE MIND PROXIA/MINDCLOUD (OBJECT DETECTION). So for example if the ROBOT encounters an intersting photograph of a dog on the internet or it takes a picture of a dog (with its eye cameras) it can make ABSTRACTIONS to understand the animal and the way humans see it over a long period of time.
+
+NOTE: KING CROWN TECHNOLOGY ™ ALSO AFFECTS/CONTRIBUTES TO ASTRAL VISION.
+
+MEMBERS CLUB DOCUMENTATION HERE: https://www.facebook.com/abc123membersclub/
+
+==========
 
 Prerequisite reading:
 
