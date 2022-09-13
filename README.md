@@ -37,7 +37,7 @@ developing a PROXIA.
 
 e.g On an ASTRAL MINDCLOUD the ASTRAL VISION PROXIA can be used to process INFORMATION sent to it from an INSTINCTIVE MIND PROXIA/MINDCLOUD (OBJECT DETECTION). So for example if the ROBOT encounters an intersting photograph of a dog on the internet or it takes a picture of a dog (with its eye cameras) it can make ABSTRACTIONS to understand the animal and the way humans see it over a long period of time.
 
-NOTE: KING CROWN TECHNOLOGY ™ ALSO AFFECTS/CONTRIBUTES TO ASTRAL VISION.
+NOTE: DATA FROM KING CROWN TECHNOLOGY ™ ALSO AFFECTS/CONTRIBUTES TO THE OVERALL ASTRAL VISION.  KING CROWN TECHNOLOGY ™ IS NOT FOR ANALYZING DIGITAL IMAGES BUT FOR THE ANALYZING THE REAL WORLD.
 
 MEMBERS CLUB DOCUMENTATION HERE: https://www.facebook.com/abc123membersclub/
 
