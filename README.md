@@ -14,7 +14,7 @@
 
 =============================================================
 
-                     MAGENTRON ™
+                     🌐 MAGENTRON ™ 🌐
                      
 🌐 ARTIFICIAL INTELLIGENCE 2.0 ™ : IMAGINATION PROXIA B
 
