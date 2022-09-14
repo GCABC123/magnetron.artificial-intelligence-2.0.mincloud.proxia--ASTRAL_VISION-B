@@ -20,6 +20,12 @@ ARTIFICIAL INTELLIGENCE 2.0 ™ : IMAGINATION PROXIA B
 
 *️⃣📶🤖
 
+- ASTRAL WORLD: SIGHT ✅
+- ASTRAL WORLD: SMELL 
+- ASTRAL WORLD: HEARING 
+- ASTRAL WORLD: TASTE
+- ASTRAL WORLD: TOUCH
+
 REQUIREMENTS: 
 
 [*] Software Requirements: Google Colab/Jupyter Notebook, Python, Tensor Flow
